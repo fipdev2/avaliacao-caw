@@ -1,0 +1,50 @@
+.update-div {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 70%;
+    padding: 32px;
+}
+
+.update-title {
+    color: var(--primary-color);
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.update-description {
+    color: var(--primary-color);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.update-updated {
+    color: var(--primary-color);
+    font-family: Arial;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    flex:1;
+}
+
+.update-button {
+    background-color: var(--primary-color);
+    border: none;
+    padding: 12px;
+    color:white;
+    font-weight: 700;
+    font-family: Inter;
+  
+}
+.update-button:hover{
+    opacity: 0.5;
+    cursor:pointer;
+}

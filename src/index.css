@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=Poppins&family=Press+Start+2P&family=Roboto:wght@100;500;900&display=swap');
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  --primary-color: #425381;
+
+
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  min-width: 100%;
+  min-height: 100vh;
+  background-color: var(--primary-color);
+  background-image: url('./assets/main_img.png');
+  background-blend-mode: luminosity;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 32px 10%;
+  height: 100%;
+  color:white;
+}
+
+main h1 {
+  color: white;
+  text-align: center;
+  line-height: normal;
+}
+
+main p {
+  color: white;
+}

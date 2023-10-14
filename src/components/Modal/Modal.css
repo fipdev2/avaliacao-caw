@@ -1,0 +1,13 @@
+.page-modal p{
+font-size: 16px;
+}
+.div-modal{
+    margin-top:8px;
+    padding:16px;
+    padding-left:32px;
+    padding-right:32px;
+    display:flex;
+    flex-direction: column;
+    gap:8px;
+    background-color:rgb(245, 245, 167);
+}
