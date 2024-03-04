@@ -8,8 +8,8 @@ In this project, the following technologies were used
 - TypeScript
 
 ## How to install
-- Requirements: nodejs
-
+Requirements:
+- Node.js
 
 ```
    git clone https://github.com/fipdev2/avaliacao-caw.git
