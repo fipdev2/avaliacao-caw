@@ -1,5 +1,5 @@
 # 2CAW (Construction of Web Applications) assignment
-# About the project
+## About the project
 
 Project for the Construction of Web Applications course (2CAW)
 In this project, the following technologies were used
