@@ -18,3 +18,6 @@ Neste projeto foram utilizadas as seguintes tecnologias
 ```
 
 
+# Deploy
+👉 https://faeterj-rio.vercel.app
+
