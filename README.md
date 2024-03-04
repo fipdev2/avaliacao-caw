@@ -11,7 +11,8 @@ In this project, the following technologies were used
 - Requirements: nodejs
 
 
-```git clone [link do projeto]
+```
+   git clone https://github.com/fipdev2/avaliacao-caw.git
    cd trabalho-caw/faeterj-web
 
    npm install
