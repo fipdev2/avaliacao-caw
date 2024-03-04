@@ -1,13 +1,14 @@
-# Sobre o Projeto
+# 2CAW (Construction of Web Applications) assignment
+# About the project
 
-Projeto para a disciplina de Construção de Aplicações Web (2CAW) 
-Neste projeto foram utilizadas as seguintes tecnologias
+Project for the Construction of Web Applications course (2CAW)
+In this project, the following technologies were used
 -Vite
 -React
 -TypeScript
 
-# Como instalar
-
+## How to install
+- Requirements: nodejs
 
 
 ```git clone [link do projeto]
@@ -18,6 +19,6 @@ Neste projeto foram utilizadas as seguintes tecnologias
 ```
 
 
-# Deploy
+## Deploy
 👉 https://faeterj-rio.vercel.app
 
