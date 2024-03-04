@@ -3,9 +3,9 @@
 
 Project for the Construction of Web Applications course (2CAW)
 In this project, the following technologies were used
--Vite
--React
--TypeScript
+- Vite
+- React
+- TypeScript
 
 ## How to install
 - Requirements: nodejs
