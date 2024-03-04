@@ -13,7 +13,7 @@ In this project, the following technologies were used
 
 ```
    git clone https://github.com/fipdev2/avaliacao-caw.git
-   cd trabalho-caw/faeterj-web
+   cd avaliacao-caw/
 
    npm install
    npm run dev
